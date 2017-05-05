@@ -24,10 +24,11 @@ url: "http://danmana.com" # the base hostname & protocol for your site, e.g. htt
 twitter_username: danmana
 github_username:  danmana
 show_downloads: false
+repository: danmana/danmana.github.io
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
