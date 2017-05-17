@@ -16,7 +16,7 @@
 title: Dan's developer blog
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-A place for all my personal projects and experiments.
+  A place for all my personal projects and experiments.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://danmana.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danmana
